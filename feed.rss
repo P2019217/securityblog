@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>Black Hat Blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about ethical hacking</description><language>en</language>
+<lastBuildDate>Sun, 07 May 2023 00:15:08 +0300</lastBuildDate>
+<pubDate>Sun, 07 May 2023 00:15:08 +0300</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Evil Twin
+</title><description><![CDATA[
+
+
+<p>Η πρακτική του evil twin είναι μια επιθετική τακτική στον κόσμο της κυβερνοασφάλειας, όπου ένας επιτιθέμενος δημιουργεί μια δευτερεύουσα ασύρματη σύνδεση που είναι σχεδόν αναγνωρίσιμη από την αρχική σύνδεση. Η συνδεσμολογία είναι συνήθως ίδια με την αρχική σύνδεση, εκτός από το όνομα του δικτύου, το οποίο μπορεί να περιλαμβάνει λέξεις όπως "Free Wi-Fi" ή "Public Wi-Fi".
+
+Ο στόχος της πρακτικής του evil twin είναι να παραπλανήσει τους χρήστες να συνδεθούν στο δίκτυο του επιτιθέμενου αντί του αρχικού δικτύου. Με αυτόν τον τρόπο, ο επιτιθέμενος μπορεί να αποκτήσει πρόσβαση στα δεδομένα του χρήστη, όπως κωδικούς πρόσβασης, πληροφορίες πιστωτικών καρτών και άλλες ευαίσθητες πληροφορίες.</p>
+
+<p>Tags: <a href='tag_eviltwin.html'>eviltwin</a>, <a href='tag_evil-twin.html'>evil-twin</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/evil-twin.html</link>
+<guid>http://example.com/blog/./evil-twin.html</guid>
+<dc:creator>P2019217</dc:creator>
+<pubDate>Sun, 07 May 2023 00:15:06 +0300</pubDate></item>
+</channel></rss>
